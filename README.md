@@ -14,3 +14,32 @@
 ## 11. What are the main features or functionalities that make your software stand out?
 ## 12. What data is available regarding the market size and growth potential for your software?
 ## 13. How can understanding market trends inform your software’s positioning and development?
+
+
+### SE_DAY4_Software-Project-Management Answers 
+
+1. **Timely delivery** ensures project success and client satisfaction. Project managers can meet deadlines through proper planning, milestone tracking, and risk management.  
+
+2. **Cost control** prevents financial losses and ensures profitability. Strategies include budget planning, cost tracking, and resource optimization.  
+
+3. **Agile** is flexible, iterative, and adapts to changes; **Waterfall** is structured and follows a linear approach. Agile allows fast updates but can lack clear documentation, while Waterfall ensures thorough planning but is rigid.  
+
+4. **Agile** suits dynamic projects like software startups (e.g., mobile apps). **Waterfall** is ideal for well-defined projects like government systems (e.g., banking software).  
+
+5. **QA methods**: Testing, code reviews, automation, and user feedback. High standards ensure reliability, security, and user satisfaction.  
+
+6. **Defining scope** prevents scope creep and keeps the project focused. **WBS** breaks tasks into manageable parts, aiding organization and tracking.  
+
+7. **Project schedules** ensure deadlines are met. **Gantt charts** visualize timelines, dependencies, and resource allocation for better tracking.  
+
+8. The software tackles inefficiencies in task management, improving productivity and workflow automation.  
+
+9. Clearly defining the problem ensures targeted solutions, avoiding unnecessary features and wasted resources.  
+
+10. The software is an intuitive task management tool that streamlines organization and productivity.  
+
+11. Key features: Task categorization (To-Do, In Progress, Done), reminders, collaboration, and progress tracking.  
+
+12. Market data: Rising demand for productivity tools due to remote work and digital transformation.  
+
+13. Understanding trends helps align features with user needs, ensuring market relevance and competitive advantage.
